@@ -45,14 +45,12 @@ results_subs_ports = []     # HOLDS THE ACTUAL SUB DOMAINS
 geo_info = ""               # SAVES GEO INFO
 shodan_results = []        # SAVES SHOLDAN INFO
 
-#C:\Users\jabar\Documents
-# FILE PATHS
+
 
 
 
 # Base directory for storing files (change this value to relocate all files)
-# You can switch between `Path.home()` or `os.getenv('APPDATA')` depending on your preference.
-base_directory = Path.home() / ".net_tool"  # For example, C:\Users\<YourUsername>\.net_tool
+base_directory = Path.home() / ".net_tool" 
 # Alternatively for Windows convention: Path(os.getenv('APPDATA')) / "NetTool"
 
 # Create base directory if it doesn't exist
