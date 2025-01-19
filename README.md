@@ -1,3 +1,18 @@
-**Disclaimer**: This tool is for educational and testing purposes only. The author does not condone illegal activities, and any use of this tool for malicious intent is the sole responsibility of the user.
+# NSM Port Scanner v1.8
 
-Developed by Jabari Lucien.
+YouTube Walkthrough Video: https://youtu.be/DNEvb71kFA4
+
+A high-speed, multi-featured port scanner built in Python for network security analysis. **NSM Port Scanner** allows users to scan networks for open ports, resolve domain names, and perform GeoIP lookups with efficient threading for rapid results.
+
+---
+
+## Features
+- Domain name resolution
+- GeoIP lookup
+- Sub-domain enumeration
+- Full port and common port scanning options
+- Threaded scanning for speed
+- Results storage in text files
+- Retrieve and display saved scan results
+- Future roadmap: Settings customization, CVE detection, service detection
+
