@@ -2,20 +2,20 @@
 
 # NSM Port Scanner
 
-A powerful and efficient port scanner developed for educational and testing purposes. This tool supports domain resolution, GeoIP lookup, sub-domain lookup, and both full and common port scanning with threaded scanning for faster results.
+#A powerful and efficient port scanner developed for educational and testing purposes. This tool supports domain resolution, GeoIP lookup, sub-domain lookup, and both full and common port scanning with threaded scanning for faster results.
 
 ## Features
-- Domain resolution and GeoIP lookup
-- Sub-domain enumeration
-- Full port and common port scanning
-- Multi-threading for improved scanning speed
-- Result storage and retrieval system
+#- Domain resolution and GeoIP lookup
+#- Sub-domain enumeration
+#- Full port and common port scanning
+#- Multi-threading for improved scanning speed
+#- Result storage and retrieval system
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/NSM-Barii/NSM-BARI.git
-   cd NSM-BARI
+#1. Clone the repository:
+   #```bash
+  # git clone https://github.com/NSM-Barii/NSM-BARI.git
+   #cd NSM-BARI
 
 
 # USER INTERFACE // IMPORTS
