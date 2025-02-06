@@ -14,5 +14,6 @@ A high-speed, multi-featured port scanner built in Python for network security a
 - Threaded scanning for speed
 - Results storage in text files
 - Retrieve and display saved scan results
-- Future roadmap: Settings customization, CVE detection, service detection
+- CVE detection
+- Future roadmap: service detection and better cve detection lookup
 
