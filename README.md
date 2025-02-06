@@ -1,4 +1,4 @@
-# NSM Port Scanner v1.8
+# NetVuln v1.8
 
 YouTube Walkthrough Video: https://youtu.be/DNEvb71kFA4
 
